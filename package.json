@@ -1,0 +1,20 @@
+{
+  "name": "typescript_0618",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-am-ethan/typescript_0618.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-am-ethan/typescript_0618/issues"
+  },
+  "homepage": "https://github.com/i-am-ethan/typescript_0618#readme"
+}
