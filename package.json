@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/i-am-ethan/typescript_0618/issues"
   },
-  "homepage": "https://github.com/i-am-ethan/typescript_0618#readme"
+  "homepage": "https://github.com/i-am-ethan/typescript_0618#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
